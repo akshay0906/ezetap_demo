@@ -1,0 +1,4 @@
+include ':etapapplication2'
+include ':mylibrary'
+include ':app'
+rootProject.name = "EtapApplication"
